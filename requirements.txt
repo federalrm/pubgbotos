@@ -1,0 +1,4 @@
+pip==18.0
+pyTelegramBotApi==3.6.5
+requests==2.19.1
+apiai==1.2.3
